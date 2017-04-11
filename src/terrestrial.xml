@@ -7,6 +7,7 @@
     system:
 	0 = DVB-T
 	1 = DVB-T2
+        2 = AUTO
 	
 	bandwidth: 
     0 = 8 MHz, 
@@ -65,6 +66,63 @@
 -->
 
 <locations>
+	 <terrestrial name="BRASIL : ISDB-Tb Frequencies" flags="1">
+                <transponder centre_frequency="473142857" system="2" bandwidth="2" constellation="3"/>  
+                <transponder centre_frequency="479142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="485142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="491142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="497142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="503142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="509142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="515142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="521142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="527142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="533142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="539142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="545142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="551142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="557142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="563142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="569142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="575142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="581142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="587142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="593142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="599142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="605142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="617142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="623142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="629142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="635142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="641142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="647142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="653142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="659142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="665142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="671142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="677142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="683142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="689142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="695142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="701142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="707142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="713142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="719142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="725142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="731142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="737142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="743142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="749142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="755142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="761142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="767142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="773142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="779142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="785142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="791142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="797142857" system="2" bandwidth="2" constellation="3"/>
+                <transponder centre_frequency="803142857" system="2" bandwidth="2" constellation="3"/>
+        </terrestrial>
 	<terrestrial name="Europe, Middle East, Africa: DVB-T/T2 Frequencies" flags="5">
 		<transponder centre_frequency="177500000" bandwidth="1" constellation="3"/>
 		<transponder centre_frequency="184500000" bandwidth="1" constellation="3"/>
